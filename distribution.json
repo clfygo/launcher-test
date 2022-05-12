@@ -24,7 +24,6 @@
       "autoconnect": false,
       "modules": [
         {
-	#Repo는 건들지마세요
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
           "name": "Minecraft Forge",
           "type": "ForgeHosted",
@@ -256,7 +255,6 @@
             }
           ]
         },
-	#이곳부터 모드파일 입니다.
         {
           "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
           "name": "Armourer's Workshop",
@@ -311,7 +309,6 @@
             "MD5": "d115da4cf44466d374c26a2717f947ed"
           }
         },
-	#이곳부터 파일입니다.
         {
           "id": "CustomNpcs.cfg",
           "name": "CustomNpcs.cfg",
