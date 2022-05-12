@@ -358,9 +358,9 @@
           "name": "res.zip",
           "type": "File",
           "artifact": {
-            "size": 150735630,
-            "url": "https://raw.githubusercontent.com/IllIllIllIlll/launcher-test/main/servers/pixelmon-1.12.2/files/resourcepacks/res.zip",
-            "MD5": "1ee1c5a14a1957dd359a3986837d10a4",
+            "size": 33379751,
+            "url": "https://www.dropbox.com/s/l6pd8ne1atiddkb/res.zip?dl=1",
+            "MD5": "f760b6e36be901d0a7d44ba9b6775b7a",
             "path": "resourcepacks/res.zip"
           }
         },
